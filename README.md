@@ -1,12 +1,24 @@
 # 💫 Hi 👋, I'm kavyansh krishan
-**A passionate  Engineer || 
 
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** many different innovative projects
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+<p align="center">A passionate 2nd-year student at Vit University, Bhopal</p>
+
+---
+
+### 🔭 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+- 🔭 **I’m currently working on:**  my development and coding skills
+- 🌱 **I’m currently learning:** dsa,fullstack,mernstack and many more thing along with AI gen
+- 👯 **I’m looking to collaborate on:** different innovative projects
 - 🤔 **I’m looking for help with:** Your project here
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:**Personalkavy199@gmail.com
 - 😄 **Pronouns:** kavyansh
 
 ## 🌐 Socials:
