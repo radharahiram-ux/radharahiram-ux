@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-- 🔭 **I’m currently working on:**  my development and coding skills
+- 🔭 **I’m currently working on:** my development and coding skills
 - 🌱 **I’m currently learning:** dsa,fullstack,mernstack and many more thing along with AI gen
 - 👯 **I’m looking to collaborate on:** different innovative projects
 - 🤔 **I’m looking for help with:** Your project here
