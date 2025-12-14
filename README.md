@@ -18,7 +18,7 @@
 - 🌱 **I’m currently learning:** dsa,fullstack,mernstack and many more thing along with AI gen
 - 👯 **I’m looking to collaborate on:** different innovative projects
 - 🤔 **I’m looking for help with:** Your project here
-- 📫 **How to reach me:**Personalkavy199@gmail.com
+- 📫 **How to reach me:** Personalkavy199@gmail.com
 - 😄 **Pronouns:** kavyansh
 
 ## 🌐 Socials:
