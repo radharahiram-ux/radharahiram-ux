@@ -21,7 +21,7 @@
 - 📫 **How to reach me:** Personalkavy199@gmail.com
 - 😄 **Pronouns:** kavyansh
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavyansh.24bce10785@vitbhopal.ac.in) 
 
 # 💻 Tech Stack:
